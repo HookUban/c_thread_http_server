@@ -563,12 +563,6 @@ gcc -g -DDEBUG -o http_server Mutil-Thread-HTTP-Server.c -lpthread
 - 特别感谢POSIX线程库的开发团队
 - 感谢开源社区的支持和反馈
 
-## 📞 联系方式
-
-- **项目主页**: https://github.com/your-username/c_thread_http_server
-- **问题反馈**: https://github.com/your-username/c_thread_http_server/issues
-- **邮箱**: your-email@example.com
-
 ---
 
 **注意**: 这是一个教育和学习项目，用于演示多线程HTTP服务器的实现原理。在生产环境中使用时，请考虑添加更多的安全特性、错误处理机制和性能优化。
